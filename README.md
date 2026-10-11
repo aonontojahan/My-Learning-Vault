@@ -14,16 +14,6 @@ This repository acts as my digital notebook, a place to document concepts, proje
 
 ---
 
-## 📂 Structure
-I plan to organize my learnings into categories such as:
-- 🖥️ Programming & Development.
-- 📊 Data & Machine Learning.
-- 🌐 Networking & Systems.
-- 📘 Notes & Summaries.
-- 🔬 Research & Experiments.
-
----
-
 ## ✨ Vision
 This vault is not just a collection of notes but a **living knowledge base** that grows with me.  
 
